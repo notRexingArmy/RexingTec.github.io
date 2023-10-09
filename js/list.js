@@ -129,7 +129,7 @@ const d = {
                        "more": "",
                        "id": 61079355,
                        "pass": "Free to copy",
-                       "percentToQualify": 70,
+                       "percentToQualify": 72,
                        "verificationVid": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
                        "key": 0
 		},
@@ -195,25 +195,6 @@ const d = {
 			"vids": [
 				{
 					"user": "Li Mao",
-					"link": "https://youtu.be/pKRS2XuC0Rs",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Elysian Aegis",
-					   "author": "zYuko",
-					   "more": "",
-					   "id": 65894695,
-					   "pass": "Free to copy",
-					   "percentToQualify": 72,
-					   "verificationVid": "https://www.youtube.com/watch?v=yYR_7GxSCG0",
-					   "key": 0
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Li Mao",
 					"link": "https://youtu.be/7gq47eC57p8",
 					"percent": 100,
 					"hz": "144hz"
@@ -226,6 +207,204 @@ const d = {
 					   "pass": "Free to copy",
 					   "percentToQualify": 72,
 					   "verificationVid": "https://www.youtube.com/watch?v=Tj0ONgI_2i8",
+					   "key": 0
+		},
+
+
+
+
+
+
+
+
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/bGVtiEdwMB8",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Land of Frogs",
+					   "author": "TheZinkYT ",
+					   "more": "",
+					   "id": 81949828,
+					   "pass": "Free to copy",
+					   "percentToQualify": 72,
+					   "verificationVid": "https://www.youtube.com/watch?v=TESTrdxfXR8",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://www.youtube.com/watch?v=HDl1GLeqeHQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Vitouxic",
+					   "author": "BaharTeam",
+					   "more": "",
+					   "id": 66154965,
+					   "pass": "Free to copy",
+					   "percentToQualify": 70,
+					   "verificationVid": "https://www.youtube.com/watch?v=KXx1JvkCQHY",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/TGD65RKHJk4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Deltafunk",
+					   "author": "Allan",
+					   "more": "",
+					   "id": 26172007,
+					   "pass": "Free to copy",
+					   "percentToQualify": 64,
+					   "verificationVid": "https://www.youtube.com/watch?v=FGNnN1MUbko",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/jEukV2aY0dM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Tsuki",
+					   "author": "Pokechatt",
+					   "more": "",
+					   "id": 73228381,
+					   "pass": "Free to copy",
+					   "percentToQualify": 74,
+					   "verificationVid": "https://www.youtube.com/watch?v=g_B7DQ41SC0",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/CGPFQb1NAiM",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Tendo",
+					   "author": "gradientxd",
+					   "more": "",
+					   "id": 67018065,
+					   "pass": "Free to copy",
+					   "percentToQualify": 72,
+					   "verificationVid": "https://www.youtube.com/watch?v=H0dmFLZkxO0",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/qrTIt1Di6Bg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Damage",
+					   "author": "itzKywa",
+					   "more": "",
+					   "id": 84324862,
+					   "pass": "Free to copy",
+					   "percentToQualify": 68,
+					   "verificationVid": "https://www.youtube.com/watch?v=iERH9wOV0xg",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/FYlcFcuDkEo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Energizer",
+					   "author": "synd",
+					   "more": "",
+					   "id": 80202147,
+					   "pass": "Free to copy",
+					   "percentToQualify": 71,
+					   "verificationVid": "https://www.youtube.com/watch?v=4z6q-aT_iLE",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/D73411kNcgg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Chroma",
+					   "author": "Renn241",
+					   "more": "",
+					   "id": 68372319,
+					   "pass": "Free to copy",
+					   "percentToQualify": 74,
+					   "verificationVid": "https://www.youtube.com/watch?v=Mb6LkukoHH8",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/9J5YTrvALFw",
+					"percent": 100,
+					"hz": "244hz"
+				},
+			],
+			"name": "Sleepless",
+					   "author": "ChaSe",
+					   "more": "",
+					   "id": 61067595,
+					   "pass": "Free to copy",
+					   "percentToQualify": 76,
+					   "verificationVid": "https://www.youtube.com/watch?v=CyKHV6YTsvo",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/fdq8qZK4V3M",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Windy Landscape",
+					   "author": "WOOGI1411",
+					   "more": "",
+					   "id": 4957691,
+					   "pass": "Free to copy",
+					   "percentToQualify": 74,
+					   "verificationVid": "https://www.youtube.com/watch?v=E6hnSnP7OaU",
 					   "key": 0
 		},
 		
