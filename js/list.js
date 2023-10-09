@@ -317,6 +317,25 @@ const d = {
 			"vids": [
 				{
 					"user": "Li Mao",
+					"link": "https://www.youtube.com/watch?v=XuxkLGw3nY0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Distorzona",
+					   "author": "Edooox",
+					   "more": "",
+					   "id": 74838946,
+					   "pass": "Free to copy",
+					   "percentToQualify": 75,
+					   "verificationVid": "https://www.youtube.com/watch?v=qRDhRc3uUt0",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
 					"link": "https://youtu.be/CGPFQb1NAiM",
 					"percent": 100,
 					"hz": "240hz"
@@ -443,25 +462,6 @@ const d = {
 					   "pass": "Free to copy",
 					   "percentToQualify": 81,
 					   "verificationVid": "https://www.youtube.com/watch?v=rRDBhX3Xous",
-					   "key": 0
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Li Mao",
-					"link": "https://www.youtube.com/watch?v=XuxkLGw3nY0",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Distorzona",
-					   "author": "Edooox",
-					   "more": "",
-					   "id": 74838946,
-					   "pass": "Free to copy",
-					   "percentToQualify": 75,
-					   "verificationVid": "https://www.youtube.com/watch?v=qRDhRc3uUt0",
 					   "key": 0
 		},
 		/*=================================================================================*/
