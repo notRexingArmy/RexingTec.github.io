@@ -16,7 +16,7 @@ const d = {
                        "id": 81373023,
                        "pass": "Free to copy",
                        "percentToQualify": 64,
-                       "verificationVid": "https://www.youtube.com/watch?v=W3dCHPubwvE&source_ve_path=MjM4NTE&feature=emb_title",
+                       "verificationVid": "https://www.youtube.com/watch?v=W3dCHPubwvE",
                        "key": 0
 		},
 		//top 2 /*=================================================================================*/
