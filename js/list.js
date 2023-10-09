@@ -437,7 +437,7 @@ const d = {
 				},
 			],
 			"name": "Poeyeng Aeng",
-					   "author": "ChaSe",
+					   "author": "akun akun",
 					   "more": "",
 					   "id": 70357068,
 					   "pass": "Free to copy",
