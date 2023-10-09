@@ -336,9 +336,9 @@ const d = {
 			"vids": [
 				{
 					"user": "Tilu",
-					"link": "https://youtu.be/qrTIt1Di6Bg",
+					"link": "https://www.youtube.com/watch?v=1FoM0P5Ubpo",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": "300hz"
 				},
 			],
 			"name": "Ring Trick",
@@ -367,6 +367,25 @@ const d = {
 					   "pass": "Free to copy",
 					   "percentToQualify": 68,
 					   "verificationVid": "https://www.youtube.com/watch?v=iERH9wOV0xg",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Tilu",
+					"link": "https://www.youtube.com/watch?v=D9H58F-r4GA",
+					"percent": 100,
+					"hz": "300hz"
+				},
+			],
+			"name": "Boops N Snoots",
+					   "author": "EnenzoGD",
+					   "more": "",
+					   "id": 94842060,
+					   "pass": "Free to copy",
+					   "percentToQualify": 70,
+					   "verificationVid": "https://www.youtube.com/watch?v=9FU6bsMs0mM",
 					   "key": 0
 		},
 		/*=================================================================================*/
