@@ -58,7 +58,7 @@ header{
 
 }
 .entry:nth-child(odd){
-  background: rgba(255, 210, 210);
+  background: rgb(255, 255, 255);
 }
 .entry:hover{
   background: rgba(255, 182, 182, 0);
