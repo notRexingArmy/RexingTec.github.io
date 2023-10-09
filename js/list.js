@@ -99,6 +99,25 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Athani",
+					"link": "https://www.youtube.com/watch?v=OywrA_rDnJI",
+					"percent": 100,
+					"hz": "120hz"
+				},
+			],
+			"name": "Glisten",
+                       "author": "Squizaaard",
+                       "more": "",
+                       "id": 74924716,
+                       "pass": "Free to copy",
+                       "percentToQualify": 74,
+                       "verificationVid": "https://www.youtube.com/watch?v=xL_0WkFxKeM",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "Li Mao",
 					"link": "https://www.youtube.com/watch?v=MoIyGBpe7JU",
 					"percent": 100,
@@ -316,6 +335,25 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Tilu",
+					"link": "https://youtu.be/qrTIt1Di6Bg",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Ring Trick",
+					   "author": "Zoroa",
+					   "more": "",
+					   "id": 94610370,
+					   "pass": "Free to copy",
+					   "percentToQualify": 70,
+					   "verificationVid": "https://www.youtube.com/watch?v=60UYMj1gXRY",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "Li Mao",
 					"link": "https://youtu.be/qrTIt1Di6Bg",
 					"percent": 100,
@@ -373,6 +411,25 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Athani",
+					"link": "https://www.youtube.com/watch?v=ervFgTKmDIE",
+					"percent": 100,
+					"hz": "120hz"
+				},
+			],
+			"name": "Poeyeng Aeng",
+					   "author": "ChaSe",
+					   "more": "",
+					   "id": 70357068,
+					   "pass": "Free to copy",
+					   "percentToQualify": 81,
+					   "verificationVid": "https://www.youtube.com/watch?v=rRDBhX3Xous",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "Li Mao",
 					"link": "https://youtu.be/9J5YTrvALFw",
 					"percent": 100,
@@ -407,6 +464,51 @@ const d = {
 					   "verificationVid": "https://www.youtube.com/watch?v=E6hnSnP7OaU",
 					   "key": 0
 		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/iqFaTJV-gMA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Athani",
+					"link": "",
+					"percent": 100,
+					"hz": "120hz"
+				},
+			],
+			"name": "BEATDEMON",
+					   "author": "YoReid",
+					   "more": "",
+					   "id": 66858068,
+					   "pass": "Free to copy",
+					   "percentToQualify": 75,
+					   "verificationVid": "https://www.youtube.com/watch?v=vp8BjfeERvE",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Athani",
+					"link": "",
+					"percent": 100,
+					"hz": "120hz"
+				},
+			],
+			"name": "Ditched Machine",
+					   "author": "Jeyzor",
+					   "more": "",
+					   "id": 4192768,
+					   "pass": "Free to copy",
+					   "percentToQualify": 71,
+					   "verificationVid": "https://www.youtube.com/watch?v=8xr2CLLKFVs",
+					   "key": 0
+		},
+		
 		
 
 
