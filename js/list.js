@@ -83,7 +83,7 @@ const d = {
 					"user": "Li Mao",
 					"link": "https://www.youtube.com/watch?v=XOeVB6Z8Tas",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "FISH FISH GODMODE",
@@ -117,7 +117,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Tilu",
+					"link": "",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Acu",
                        "author": "Neigefeu",
@@ -154,7 +159,7 @@ const d = {
 					"user": "Li Mao",
 					"link": "https://www.youtube.com/watch?v=jXB_2x5Z89Q",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "240hz"
 				},
 			],
 			"name": "My Song",
@@ -165,6 +170,63 @@ const d = {
                        "percentToQualify": 69,
                        "verificationVid": "https://www.youtube.com/watch?v=FUdV8xfmDPs",
                        "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/pKRS2XuC0Rs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Elysian Aegis",
+					   "author": "zYuko",
+					   "more": "",
+					   "id": 65894695,
+					   "pass": "Free to copy",
+					   "percentToQualify": 72,
+					   "verificationVid": "https://www.youtube.com/watch?v=yYR_7GxSCG0",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/pKRS2XuC0Rs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Elysian Aegis",
+					   "author": "zYuko",
+					   "more": "",
+					   "id": 65894695,
+					   "pass": "Free to copy",
+					   "percentToQualify": 72,
+					   "verificationVid": "https://www.youtube.com/watch?v=yYR_7GxSCG0",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/7gq47eC57p8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Leyak",
+					   "author": "EnZore",
+					   "more": "",
+					   "id": 61137742,
+					   "pass": "Free to copy",
+					   "percentToQualify": 72,
+					   "verificationVid": "https://www.youtube.com/watch?v=Tj0ONgI_2i8",
+					   "key": 0
 		},
 		
 
