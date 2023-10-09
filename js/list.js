@@ -114,6 +114,58 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=RmrPEJ7Z6lY",
                        "key": 0
 		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Acu",
+                       "author": "Neigefeu",
+                       "more": "",
+                       "id": 61079355,
+                       "pass": "Free to copy",
+                       "percentToQualify": 70,
+                       "verificationVid": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://youtu.be/0WCK5Qb-pwI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Thanatophobia",
+                       "author": "ARtu",
+                       "more": "Kains, Maitnary, guleshelt, Chaeyeon, RealVet, Voltex, Zipixbox, itami, NaimNaro, hyp3rlink",
+                       "id": 62809982,
+                       "pass": "Free to copy",
+                       "percentToQualify": 65,
+                       "verificationVid": "https://www.youtube.com/watch?v=A0JkCaVmpn8&t=0s",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://www.youtube.com/watch?v=jXB_2x5Z89Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "My Song",
+                       "author": "lGenoxide",
+                       "more": "",
+                       "id": 83431859,
+                       "pass": "Free to copy",
+                       "percentToQualify": 69,
+                       "verificationVid": "https://www.youtube.com/watch?v=FUdV8xfmDPs",
+                       "key": 0
+		},
 		
 
 
