@@ -102,7 +102,7 @@ const d = {
 					"user": "Athani",
 					"link": "https://www.youtube.com/watch?v=OywrA_rDnJI",
 					"percent": 100,
-					"hz": "120hz"
+					"hz": "120hz Mobile"
 				},
 			],
 			"name": "Glisten",
@@ -433,7 +433,7 @@ const d = {
 					"user": "Athani",
 					"link": "https://www.youtube.com/watch?v=ervFgTKmDIE",
 					"percent": 100,
-					"hz": "120hz"
+					"hz": "120hz Mobile"
 				},
 			],
 			"name": "Poeyeng Aeng",
@@ -443,6 +443,25 @@ const d = {
 					   "pass": "Free to copy",
 					   "percentToQualify": 81,
 					   "verificationVid": "https://www.youtube.com/watch?v=rRDBhX3Xous",
+					   "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
+					"link": "https://www.youtube.com/watch?v=XuxkLGw3nY0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Distorzona",
+					   "author": "Edooox",
+					   "more": "",
+					   "id": 74838946,
+					   "pass": "Free to copy",
+					   "percentToQualify": 75,
+					   "verificationVid": "https://www.youtube.com/watch?v=qRDhRc3uUt0",
 					   "key": 0
 		},
 		/*=================================================================================*/
@@ -496,7 +515,7 @@ const d = {
 					"user": "Athani",
 					"link": "",
 					"percent": 100,
-					"hz": "120hz"
+					"hz": "120hz Mobile"
 				},
 			],
 			"name": "BEATDEMON",
@@ -515,7 +534,7 @@ const d = {
 					"user": "Athani",
 					"link": "",
 					"percent": 100,
-					"hz": "120hz"
+					"hz": "120hz Mobile"
 				},
 			],
 			"name": "Ditched Machine",
