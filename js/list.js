@@ -15,7 +15,7 @@ const d = {
                        "more": "Wahffle, Koopazu, Hypno, Nerhy, Azuvy, GiggsRH, Looch, Twisterdude, DTDom",
                        "id": 81373023,
                        "pass": "Free to copy",
-                       "percentToQualify": 64,
+                       "percentToQualify": 65,
                        "verificationVid": "https://www.youtube.com/watch?v=W3dCHPubwvE",
                        "key": 0
 		},
