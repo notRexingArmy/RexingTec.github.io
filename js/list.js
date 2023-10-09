@@ -34,7 +34,7 @@ const d = {
                        "more": "",
                        "id": 77114615,
                        "pass": "Free to copy",
-                       "percentToQualify": 57,
+                       "percentToQualify": 72,
                        "verificationVid": "https://www.youtube.com/watch?v=qcxbpny3ORg",
                        "key": 0
 		},
@@ -53,7 +53,7 @@ const d = {
                        "more": "",
                        "id": 78687216,
                        "pass": "Free to copy",
-                       "percentToQualify": 58,
+                       "percentToQualify": 72,
                        "verificationVid": "https://www.youtube.com/watch?v=hS8fT0P0MqU",
                        "key": 0
 		},
@@ -72,7 +72,7 @@ const d = {
                        "more": "Mrgm, Aranda, Titoalper, KrazyGFX, Beclan, Asuith, Pedro, Peng, Blaze, Genoxide",
                        "id": 87425029,
                        "pass": "Free to copy",
-                       "percentToQualify": 59,
+                       "percentToQualify": 78,
                        "verificationVid": "https://www.youtube.com/watch?v=vegDZr7jh-M",
                        "key": 0
 		},
