@@ -317,6 +317,25 @@ const d = {
 			"vids": [
 				{
 					"user": "Li Mao",
+					"link": "https://youtu.be/D73411kNcgg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Chroma",
+					   "author": "Renn241",
+					   "more": "",
+					   "id": 68372319,
+					   "pass": "Free to copy",
+					   "percentToQualify": 74,
+					   "verificationVid": "https://www.youtube.com/watch?v=Mb6LkukoHH8",
+					   "key": 22
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
 					"link": "https://www.youtube.com/watch?v=XuxkLGw3nY0",
 					"percent": 100,
 					"hz": "240hz"
@@ -425,25 +444,6 @@ const d = {
 					   "percentToQualify": 71,
 					   "verificationVid": "https://www.youtube.com/watch?v=4z6q-aT_iLE",
 					   "key": 21
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Li Mao",
-					"link": "https://youtu.be/D73411kNcgg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Chroma",
-					   "author": "Renn241",
-					   "more": "",
-					   "id": 68372319,
-					   "pass": "Free to copy",
-					   "percentToQualify": 74,
-					   "verificationVid": "https://www.youtube.com/watch?v=Mb6LkukoHH8",
-					   "key": 22
 		},
 		/*=================================================================================*/
 		{
