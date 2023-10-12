@@ -385,6 +385,25 @@ const d = {
 			"vids": [
 				{
 					"user": "Li Mao",
+					"link": "https://youtu.be/FYlcFcuDkEo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+			],
+			"name": "Energizer",
+					   "author": "synd",
+					   "more": "",
+					   "id": 80202147,
+					   "pass": "Free to copy",
+					   "percentToQualify": 71,
+					   "verificationVid": "https://www.youtube.com/watch?v=4z6q-aT_iLE",
+					   "key": 22
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Li Mao",
 					"link": "https://youtu.be/qrTIt1Di6Bg",
 					"percent": 100,
 					"hz": "240hz"
@@ -417,25 +436,6 @@ const d = {
 					   "percentToQualify": 70,
 					   "verificationVid": "https://www.youtube.com/watch?v=9FU6bsMs0mM",
 					   "key": 21
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "Li Mao",
-					"link": "https://youtu.be/FYlcFcuDkEo",
-					"percent": 100,
-					"hz": "240hz"
-				},
-			],
-			"name": "Energizer",
-					   "author": "synd",
-					   "more": "",
-					   "id": 80202147,
-					   "pass": "Free to copy",
-					   "percentToQualify": 71,
-					   "verificationVid": "https://www.youtube.com/watch?v=4z6q-aT_iLE",
-					   "key": 22
 		},
 		/*=================================================================================*/
 		{
